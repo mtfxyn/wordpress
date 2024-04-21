@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>原神 &#8211; mtfxyn的小屋</title>
+	<atom:link href="https://mtfxyn.eu.org/category/genshin/feed/?simply_static_page=89" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2024 15:51:47 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>芙卡洛斯</title>
+		<link>/focalors/</link>
+					<comments>/focalors/#respond</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 14:10:25 +0000</pubDate>
+				<category><![CDATA[原神]]></category>
+		<guid isPermaLink="false">/?p=80</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div id="dplayer"></div>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/dplayer/1.26.0/DPlayer.min.js"></script>
+<script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/hls.js/8.0.0-beta.3/hls.js"></script>
+<script>
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://cdn.20090217.xyz/yuanshen/funingna/index.m3u8',
+        type: 'hls',
+    },
+    pluginOptions: {
+        hls: {
+            // hls config
+        },
+    },
+});
+console.log(dp.plugins.hls); 
+</script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/focalors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>那维莱特</title>
+		<link>/neuvillette/</link>
+					<comments>/neuvillette/#respond</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sat, 13 Apr 2024 16:24:24 +0000</pubDate>
+				<category><![CDATA[原神]]></category>
+		<guid isPermaLink="false">/?p=63</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video controls src="https://cdn1.1120.eu.org/aa.mp4"></video></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/neuvillette/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://cdn1.1120.eu.org/aa.mp4" length="25691340" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>《原神交响音乐会2023》上海场官方录播</title>
+		<link>/genshinconcert/</link>
+					<comments>/genshinconcert/#comments</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 17:09:32 +0000</pubDate>
+				<category><![CDATA[原神]]></category>
+		<guid isPermaLink="false">/?p=33</guid>
+
+					<description><![CDATA[《原神交响音乐会2023》上海场官方录播下载＂Genshin Impact Orchestral Concer [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video controls src="https://mtfxyn.eu.org:2234/genshen/%EF%BC%82Genshin%20Impact%20Orchestral%20Concert%202023%EF%BC%82%20Official%20Shanghai%20Performance%20Recording.mkv"></video></figure>
+
+
+
+<p>《原神交响音乐会2023》上海场官方录播下载＂Genshin Impact Orchestral Concert 2023＂ Official Shanghai Performance Recording 4k</p>
+
+
+
+<p>torrent:<a href="https://mtfxyn.eu.org:2234/genshen/%EF%BC%82Genshin%20Impact%20Orchestral%20Concert%202023%EF%BC%82%20Official%20Shanghai%20Performance%20Recording.mkv.torrent">https://mtfxyn.eu.org:2234/genshen/%EF%BC%82Genshin%20Impact%20Orchestral%20Concert%202023%EF%BC%82%20Official%20Shanghai%20Performance%20Recording.mkv.torrent</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/genshinconcert/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

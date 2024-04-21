@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>动漫 &#8211; mtfxyn的小屋</title>
+	<atom:link href="https://mtfxyn.eu.org/category/anime/feed/?simply_static_page=86" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2024 16:20:43 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>命运石之门Steins;Gate</title>
+		<link>/steinsgate/</link>
+					<comments>/steinsgate/#respond</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 15:57:00 +0000</pubDate>
+				<category><![CDATA[动漫]]></category>
+		<guid isPermaLink="false">/?p=90</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div id="dplayer"></div>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/dplayer/1.26.0/DPlayer.min.js"></script>
+<script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/hls.js/8.0.0-beta.3/hls.js"></script>
+<script>
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://cdn.20090217.xyz/SteinsGate/1/index.m3u8',
+        type: 'hls',
+    },
+    pluginOptions: {
+        hls: {
+            // hls config
+        },
+    },
+});
+console.log(dp.plugins.hls); 
+</script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/steinsgate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BOCCHI THE ROCK!孤独摇滚！</title>
+		<link>/bocchi-the-rock%e5%ad%a4%e7%8b%ac%e6%91%87%e6%bb%9a%ef%bc%81/</link>
+					<comments>/bocchi-the-rock%e5%ad%a4%e7%8b%ac%e6%91%87%e6%bb%9a%ef%bc%81/#respond</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 15:55:05 +0000</pubDate>
+				<category><![CDATA[动漫]]></category>
+		<guid isPermaLink="false">/?p=88</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/bocchi-the-rock%e5%ad%a4%e7%8b%ac%e6%91%87%e6%bb%9a%ef%bc%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>紫罗兰永恒花园</title>
+		<link>/violetevergarden/</link>
+					<comments>/violetevergarden/#respond</comments>
+		
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sat, 13 Apr 2024 17:27:44 +0000</pubDate>
+				<category><![CDATA[动漫]]></category>
+		<guid isPermaLink="false">/?p=66</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div id="dplayer"></div>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/dplayer/1.26.0/DPlayer.min.js"></script>
+<script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/hls.js/8.0.0-beta.3/hls.js"></script>
+<script>
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: 'https://cdn1.1120.eu.org/output.m3u8',
+        type: 'hls',
+    },
+    pluginOptions: {
+        hls: {
+            // hls config
+        },
+    },
+});
+console.log(dp.plugins.hls); // Hls 实例
+</script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/violetevergarden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

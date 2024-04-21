@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	「《原神交响音乐会2023》上海场官方录播」的评论	</title>
+	<atom:link href="https://mtfxyn.eu.org/genshinconcert/feed/?simply_static_page=98" rel="self" type="application/rss+xml" />
+	<link>/genshinconcert/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Mar 2024 13:06:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		评论者：mtfxyn		</title>
+		<link>/genshinconcert/#comment-6</link>
+
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2024 13:04:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=33#comment-6</guid>
+
+					<description><![CDATA[aaa]]></description>
+			<content:encoded><![CDATA[<p>aaa</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

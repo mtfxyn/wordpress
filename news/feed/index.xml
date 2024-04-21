@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	「每天60秒读懂世界」的评论	</title>
+	<atom:link href="https://mtfxyn.eu.org/news/feed/?simply_static_page=120" rel="self" type="application/rss+xml" />
+	<link>/news/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2024 15:52:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		评论者：匿名		</title>
+		<link>/news/#comment-5</link>
+
+		<dc:creator><![CDATA[匿名]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2024 04:13:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=20#comment-5</guid>
+
+					<description><![CDATA[66666]]></description>
+			<content:encoded><![CDATA[<p>66666</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		评论者：mtfxyn		</title>
+		<link>/news/#comment-4</link>
+
+		<dc:creator><![CDATA[mtfxyn]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2024 04:13:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=20#comment-4</guid>
+
+					<description><![CDATA[ヾ(≧∇≦*)ゝ]]></description>
+			<content:encoded><![CDATA[<p>ヾ(≧∇≦*)ゝ</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
